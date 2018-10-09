@@ -1,2 +1,2 @@
 # HOMEWORK
-This Github is a place to save any my homeworks.
+This Github is a place to save all my homeworks.
